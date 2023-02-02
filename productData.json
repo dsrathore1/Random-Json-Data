@@ -1,0 +1,373 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "user0",
+            "price": 320,
+            "feature": false,
+            "rating": "5.3",
+            "createdAt": "Thu Feb 02 2023 08:05:41 GMT+0530 (India Standard Time)",
+            "company": "asus"
+        },
+        {
+            "id": 1,
+            "name": "user1",
+            "price": 265,
+            "feature": false,
+            "rating": "2.5",
+            "createdAt": "Thu Feb 02 2023 08:05:41 GMT+0530 (India Standard Time)",
+            "company": "asus"
+        },
+        {
+            "id": 2,
+            "name": "user2",
+            "price": 367,
+            "feature": false,
+            "rating": "5.8",
+            "createdAt": "Thu Feb 02 2023 08:05:41 GMT+0530 (India Standard Time)",
+            "company": "asus"
+        },
+        {
+            "id": 3,
+            "name": "user3",
+            "price": 243,
+            "feature": false,
+            "rating": "2.8",
+            "createdAt": "Thu Feb 02 2023 08:05:41 GMT+0530 (India Standard Time)",
+            "company": "asus"
+        },
+        {
+            "id": 4,
+            "name": "user4",
+            "price": 78,
+            "feature": false,
+            "rating": "1.7",
+            "createdAt": "Thu Feb 02 2023 08:05:41 GMT+0530 (India Standard Time)",
+            "company": "asus"
+        },
+        {
+            "id": 5,
+            "name": "user5",
+            "price": 251,
+            "feature": false,
+            "rating": "2.2",
+            "createdAt": "Thu Feb 02 2023 08:07:01 GMT+0530 (India Standard Time)",
+            "company": "samsung"
+        },
+        {
+            "id": 6,
+            "name": "user6",
+            "price": 147,
+            "feature": false,
+            "rating": "1.2",
+            "createdAt": "Thu Feb 02 2023 08:07:01 GMT+0530 (India Standard Time)",
+            "company": "samsung"
+        },
+        {
+            "id": 7,
+            "name": "user7",
+            "price": 340,
+            "feature": false,
+            "rating": "5.1",
+            "createdAt": "Thu Feb 02 2023 08:07:01 GMT+0530 (India Standard Time)",
+            "company": "samsung"
+        },
+        {
+            "id": 8,
+            "name": "user8",
+            "price": 32,
+            "feature": false,
+            "rating": "1.6",
+            "createdAt": "Thu Feb 02 2023 08:07:01 GMT+0530 (India Standard Time)",
+            "company": "samsung"
+        },
+        {
+            "id": 9,
+            "name": "user9",
+            "price": 342,
+            "feature": false,
+            "rating": "4.1",
+            "createdAt": "Thu Feb 02 2023 08:07:01 GMT+0530 (India Standard Time)",
+            "company": "samsung"
+        },
+        {
+            "id": 10,
+            "name": "user10",
+            "price": 165,
+            "feature": false,
+            "rating": "1.6",
+            "createdAt": "Thu Feb 02 2023 08:09:11 GMT+0530 (India Standard Time)",
+            "company": "apple"
+        },
+        {
+            "id": 11,
+            "name": "user11",
+            "price": 273,
+            "feature": false,
+            "rating": "2.2",
+            "createdAt": "Thu Feb 02 2023 08:09:11 GMT+0530 (India Standard Time)",
+            "company": "apple"
+        },
+        {
+            "id": 12,
+            "name": "user12",
+            "price": 93,
+            "feature": true,
+            "rating": "3.9",
+            "createdAt": "Thu Feb 02 2023 08:09:11 GMT+0530 (India Standard Time)",
+            "company": "apple"
+        },
+        {
+            "id": 13,
+            "name": "user13",
+            "price": 152,
+            "feature": true,
+            "rating": "5.3",
+            "createdAt": "Thu Feb 02 2023 08:09:11 GMT+0530 (India Standard Time)",
+            "company": "apple"
+        },
+        {
+            "id": 14,
+            "name": "user14",
+            "price": 209,
+            "feature": true,
+            "rating": "3.8",
+            "createdAt": "Thu Feb 02 2023 08:09:11 GMT+0530 (India Standard Time)",
+            "company": "apple"
+        },
+        {
+            "id": 15,
+            "name": "user15",
+            "price": 365,
+            "feature": true,
+            "rating": "3.5",
+            "createdAt": "Thu Feb 02 2023 08:09:59 GMT+0530 (India Standard Time)",
+            "company": "lenovo"
+        },
+        {
+            "id": 16,
+            "name": "user16",
+            "price": 156,
+            "feature": true,
+            "rating": "3.8",
+            "createdAt": "Thu Feb 02 2023 08:09:59 GMT+0530 (India Standard Time)",
+            "company": "lenovo"
+        },
+        {
+            "id": 17,
+            "name": "user17",
+            "price": 172,
+            "feature": true,
+            "rating": "4.0",
+            "createdAt": "Thu Feb 02 2023 08:09:59 GMT+0530 (India Standard Time)",
+            "company": "lenovo"
+        },
+        {
+            "id": 18,
+            "name": "user18",
+            "price": 278,
+            "feature": true,
+            "rating": "1.8",
+            "createdAt": "Thu Feb 02 2023 08:09:59 GMT+0530 (India Standard Time)",
+            "company": "lenovo"
+        },
+        {
+            "id": 19,
+            "name": "user19",
+            "price": 248,
+            "feature": true,
+            "rating": "3.6",
+            "createdAt": "Thu Feb 02 2023 08:09:59 GMT+0530 (India Standard Time)",
+            "company": "lenovo"
+        },
+        {
+            "id": 20,
+            "name": "user20",
+            "price": 254,
+            "feature": true,
+            "rating": "3.5",
+            "createdAt": "Thu Feb 02 2023 08:10:40 GMT+0530 (India Standard Time)",
+            "company": "dell"
+        },
+        {
+            "id": 21,
+            "name": "user21",
+            "price": 125,
+            "feature": true,
+            "rating": "4.6",
+            "createdAt": "Thu Feb 02 2023 08:10:40 GMT+0530 (India Standard Time)",
+            "company": "dell"
+        },
+        {
+            "id": 22,
+            "name": "user22",
+            "price": 246,
+            "feature": true,
+            "rating": "4.3",
+            "createdAt": "Thu Feb 02 2023 08:10:40 GMT+0530 (India Standard Time)",
+            "company": "dell"
+        },
+        {
+            "id": 23,
+            "name": "user23",
+            "price": 139,
+            "feature": true,
+            "rating": "2.6",
+            "createdAt": "Thu Feb 02 2023 08:10:40 GMT+0530 (India Standard Time)",
+            "company": "dell"
+        },
+        {
+            "id": 24,
+            "name": "user24",
+            "price": 394,
+            "feature": true,
+            "rating": "3.2",
+            "createdAt": "Thu Feb 02 2023 08:10:40 GMT+0530 (India Standard Time)",
+            "company": "dell"
+        },
+        {
+            "id": 25,
+            "name": "user25",
+            "price": 136,
+            "feature": true,
+            "rating": "4.8",
+            "createdAt": "Thu Feb 02 2023 08:11:38 GMT+0530 (India Standard Time)",
+            "company": "hp"
+        },
+        {
+            "id": 26,
+            "name": "user26",
+            "price": 254,
+            "feature": true,
+            "rating": "1.1",
+            "createdAt": "Thu Feb 02 2023 08:11:38 GMT+0530 (India Standard Time)",
+            "company": "hp"
+        },
+        {
+            "id": 27,
+            "name": "user27",
+            "price": 261,
+            "feature": true,
+            "rating": "4.7",
+            "createdAt": "Thu Feb 02 2023 08:11:38 GMT+0530 (India Standard Time)",
+            "company": "hp"
+        },
+        {
+            "id": 28,
+            "name": "user28",
+            "price": 74,
+            "feature": true,
+            "rating": "5.9",
+            "createdAt": "Thu Feb 02 2023 08:11:38 GMT+0530 (India Standard Time)",
+            "company": "hp"
+        },
+        {
+            "id": 29,
+            "name": "user29",
+            "price": 208,
+            "feature": true,
+            "rating": "1.9",
+            "createdAt": "Thu Feb 02 2023 08:11:38 GMT+0530 (India Standard Time)",
+            "company": "hp"
+        },
+        {
+            "id": 30,
+            "name": "user30",
+            "price": 70,
+            "feature": true,
+            "rating": "5.4",
+            "createdAt": "Thu Feb 02 2023 08:11:38 GMT+0530 (India Standard Time)",
+            "company": "hp"
+        },
+        {
+            "id": 31,
+            "name": "user31",
+            "price": 29,
+            "feature": true,
+            "rating": "2.4",
+            "createdAt": "Thu Feb 02 2023 08:11:38 GMT+0530 (India Standard Time)",
+            "company": "mi"
+        },
+        {
+            "id": 32,
+            "name": "user32",
+            "price": 361,
+            "feature": true,
+            "rating": "4.5",
+            "createdAt": "Thu Feb 02 2023 08:11:38 GMT+0530 (India Standard Time)",
+            "company": "mi"
+        },
+        {
+            "id": 33,
+            "name": "user33",
+            "price": 418,
+            "feature": true,
+            "rating": "5.9",
+            "createdAt": "Thu Feb 02 2023 08:11:38 GMT+0530 (India Standard Time)",
+            "company": "mi"
+        },
+        {
+            "id": 34,
+            "name": "user34",
+            "price": 327,
+            "feature": true,
+            "rating": "2.5",
+            "createdAt": "Thu Feb 02 2023 08:11:38 GMT+0530 (India Standard Time)",
+            "company": "mi"
+        },
+        {
+            "id": 35,
+            "name": "user35",
+            "price": 333,
+            "feature": true,
+            "rating": "1.3",
+            "createdAt": "Thu Feb 02 2023 08:13:15 GMT+0530 (India Standard Time)",
+            "company": "samsung"
+        },
+        {
+            "id": 36,
+            "name": "user36",
+            "price": 20,
+            "feature": true,
+            "rating": "1.7",
+            "createdAt": "Thu Feb 02 2023 08:13:15 GMT+0530 (India Standard Time)",
+            "company": "samsung"
+        },
+        {
+            "id": 37,
+            "name": "user37",
+            "price": 211,
+            "feature": true,
+            "rating": "2.2",
+            "createdAt": "Thu Feb 02 2023 08:13:15 GMT+0530 (India Standard Time)",
+            "company": "hp"
+        },
+        {
+            "id": 38,
+            "name": "user38",
+            "price": 404,
+            "feature": false,
+            "rating": "5.1",
+            "createdAt": "Thu Feb 02 2023 08:13:15 GMT+0530 (India Standard Time)",
+            "company": "dell"
+        },
+        {
+            "id": 39,
+            "name": "user39",
+            "price": 256,
+            "feature": false,
+            "rating": "4.9",
+            "createdAt": "Thu Feb 02 2023 08:13:15 GMT+0530 (India Standard Time)",
+            "company": "dell"
+        },
+        {
+            "id": 40,
+            "name": "user0",
+            "price": 200,
+            "feature": false,
+            "rating": "3.1",
+            "createdAt": "Thu Feb 02 2023 08:14:01 GMT+0530 (India Standard Time)",
+            "company": "mi"
+        }
+    ]
+}
