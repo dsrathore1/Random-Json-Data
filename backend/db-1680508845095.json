@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "user0",
+      "price": 48,
+      "feature": true,
+      "rating": "3.8",
+      "createdAt": "Mon Apr 03 2023 13:30:42 GMT+0530 (India Standard Time)",
+      "company": "hp"
+    },
+    {
+      "id": 1,
+      "name": "user1",
+      "price": 405,
+      "feature": true,
+      "rating": "4.0",
+      "createdAt": "Mon Apr 03 2023 13:30:42 GMT+0530 (India Standard Time)",
+      "company": "hp"
+    },
+    {
+      "id": 2,
+      "name": "user2",
+      "price": 224,
+      "feature": true,
+      "rating": "3.3",
+      "createdAt": "Mon Apr 03 2023 13:30:42 GMT+0530 (India Standard Time)",
+      "company": "hp"
+    },
+    {
+      "id": 3,
+      "name": "user3",
+      "price": 33,
+      "feature": true,
+      "rating": "1.7",
+      "createdAt": "Mon Apr 03 2023 13:30:42 GMT+0530 (India Standard Time)",
+      "company": "hp"
+    },
+    {
+      "id": 4,
+      "name": "user4",
+      "price": 88,
+      "feature": true,
+      "rating": "4.3",
+      "createdAt": "Mon Apr 03 2023 13:30:42 GMT+0530 (India Standard Time)",
+      "company": "hp"
+    },
+    {
+      "id": 5,
+      "name": "user5",
+      "price": 195,
+      "feature": true,
+      "rating": "3.8",
+      "createdAt": "Mon Apr 03 2023 13:30:42 GMT+0530 (India Standard Time)",
+      "company": "hp"
+    },
+    {
+      "id": 6,
+      "name": "user6",
+      "price": 56,
+      "feature": true,
+      "rating": "5.3",
+      "createdAt": "Mon Apr 03 2023 13:30:42 GMT+0530 (India Standard Time)",
+      "company": "hp"
+    },
+    {
+      "id": 7,
+      "name": "user7",
+      "price": 196,
+      "feature": true,
+      "rating": "3.7",
+      "createdAt": "Mon Apr 03 2023 13:30:42 GMT+0530 (India Standard Time)",
+      "company": "hp"
+    },
+    {
+      "id": 8,
+      "name": "user8",
+      "price": 52,
+      "feature": true,
+      "rating": "4.8",
+      "createdAt": "Mon Apr 03 2023 13:30:42 GMT+0530 (India Standard Time)",
+      "company": "hp"
+    },
+    {
+      "id": 9,
+      "name": "user9",
+      "price": 142,
+      "feature": true,
+      "rating": "3.5",
+      "createdAt": "Mon Apr 03 2023 13:30:42 GMT+0530 (India Standard Time)",
+      "company": "hp"
+    }
+  ]
+}

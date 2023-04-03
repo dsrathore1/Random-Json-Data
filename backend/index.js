@@ -3,7 +3,7 @@ const productsData = () => {
     const companies = ["apple", "samsung", "lenovo", "hp", "dell", "mi", "asus"];
     const randomCompany = Math.floor(Math.random() * companies.length);
 
-    for (let i = 0; i < 1; i++) {
+    for (let i = 0; i < 10; i++) {
         data.products.push({
             id: i,
             name: `user${i}`,
